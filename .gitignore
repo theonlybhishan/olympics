@@ -2,5 +2,4 @@ venv
 Procfile
 setup.sh
 reqrmnts.txt
-athlete_events.csv
-noc_regions.csv
+*.csv
